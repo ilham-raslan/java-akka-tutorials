@@ -1,0 +1,15 @@
+
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(§­ËŸıÿÿÿÿ8ÿ¸ùá/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¸çê‚ÿÿÿÿÿ8ÿ¸ùá/
+p	java:S116D"TRename this field "TIMER_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¦øö8úÆïá/
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(¹½†Ê8‘ˆãˆŸ/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(£¨ĞÚşÿÿÿÿ8ÿ¸ùá/
+W
+java:S4973‘"9Use the "equals" method if value comparison was intended.(æŸ‚–8ïâäˆŸ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ•êL8‘ˆãˆŸ/
+R
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ğà°é8ïâäˆŸ/
+Q
+java:S2864M"4Iterate over the "entrySet" instead of the "keySet".(ó¤’8ÿ÷‹â/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¿õ´êşÿÿÿÿ8ÿ÷‹â/
+Y	java:S125€"<This block of commented-out lines of code should be removed.(ÁÅ¿È8¨øˆŸ/

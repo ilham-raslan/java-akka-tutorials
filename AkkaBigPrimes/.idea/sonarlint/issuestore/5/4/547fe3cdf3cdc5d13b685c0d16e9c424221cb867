@@ -1,0 +1,7 @@
+
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(¼Ïñ§8…Ç¤Ú/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(õ ‹ıÿÿÿÿ8¡‚£Ú/
+{
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ·Õƒøÿÿÿÿ8Í’ Ú/
+c
+java:S1192;"FDefine a constant instead of duplicating this literal "start" 3 times.(ºç¹Æ8§ˆ¹Ú/
