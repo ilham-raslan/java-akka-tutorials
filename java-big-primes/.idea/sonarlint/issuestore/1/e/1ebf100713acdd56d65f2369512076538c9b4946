@@ -1,6 +1,6 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¿ÜËúÿÿÿÿ8½¡¸±ž/
 0
 java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¿ÜËúÿÿÿÿ8½¡¸±ž/
 c
 java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ª‚½±ž/
